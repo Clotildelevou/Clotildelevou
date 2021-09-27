@@ -1,6 +1,6 @@
 # Clou's profile
 
-You may find some interesting stuff if you dif a little.
+You may find some interesting stuff if you dig a little.
 
 <!---
 Clotildelevou/Clotildelevou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
