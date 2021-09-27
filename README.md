@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Clotildelevou
-- 👀 I love IT !! I have many different projects you can have a look.
+# Clou's profile
+
+You may find some interesting stuff if you dif a little.
 
 <!---
 Clotildelevou/Clotildelevou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
