@@ -2,4 +2,4 @@
 
 You may find some interesting stuff if you dig a little.
 
-[To my Webpage](https://clotildelevou.github.io/)
+[To my webpage](https://clotildelevou.github.io/)
