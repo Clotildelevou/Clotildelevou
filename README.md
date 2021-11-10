@@ -45,7 +45,8 @@ I also know know how to use :
 [![docker](https://img.shields.io/static/v1?label=&logo=docker&message=docker&color=orange&style=plastic&logoColor=white)]()
 
 [![Windaube](https://img.shields.io/static/v1?label=&logo=windows&message=Windows&color=yellow&style=plastic)](https://www.microsoft.com/)
-[![Arch](https://img.shields.io/static/v1?label=&logo=archlinux&message=btw-i-use-arch&color=yellow&logoColor=white&style=plastic)]()
+[![Windaube](https://img.shields.io/static/v1?label=&logo=powershell&message=PowerShell&color=yellow&style=plastic&logoColor=white)]()
+[![Arch](https://img.shields.io/static/v1?label=&logo=archlinux&message=ArchLinux&color=yellow&logoColor=white&style=plastic)]()
 
 You may find some interesting stuff if you dig a little.
 
