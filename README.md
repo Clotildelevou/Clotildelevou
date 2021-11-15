@@ -29,6 +29,7 @@ My favourites languages and tools are :
 [![Linux](https://img.shields.io/static/v1?label=&logo=linux&message=Linux&color=yellow&logoColor=white&style=plastic)](https://www.linux.org/)
 [![Bash](https://img.shields.io/static/v1?label=&logo=gnubash&message=bash&color=yellow&logoColor=white&style=plastic)](https://www.linux.org/)
 [![ubuntu](https://img.shields.io/static/v1?label=&logo=ubuntu&message=ubuntu&color=yellow&logoColor=white&style=plastic)]()
+[![Arch](https://img.shields.io/static/v1?label=&logo=archlinux&message=ArchLinux&color=yellow&logoColor=white&style=plastic)]()
 
 
 I also know know how to use :
@@ -50,7 +51,6 @@ I also know know how to use :
 
 [![Windaube](https://img.shields.io/static/v1?label=&logo=windows&message=Windows&color=yellow&style=plastic)](https://www.microsoft.com/)
 [![Windaube](https://img.shields.io/static/v1?label=&logo=powershell&message=PowerShell&color=yellow&style=plastic&logoColor=white)]()
-[![Arch](https://img.shields.io/static/v1?label=&logo=archlinux&message=ArchLinux&color=yellow&logoColor=white&style=plastic)]()
 
 You may find some interesting stuff if you dig a little.
 
