@@ -27,7 +27,7 @@ My favourites languages and tools are :
 
 [![git](https://img.shields.io/static/v1?label=&logo=git&message=git&color=yellow&logoColor=white&style=plastic)]()
 [![Linux](https://img.shields.io/static/v1?label=&logo=linux&message=Linux&color=yellow&logoColor=white&style=plastic)](https://www.linux.org/)
-[![Bash](https://img.shields.io/static/v1?label=&logo=gnubash&message=bash&color=yellow&logoColor=white&style=plastic)](https://www.linux.org/)
+[![Bash](https://img.shields.io/static/v1?label=&logo=gnubash&message=bash&color=yellow&logoColor=white&style=plastic)]()
 [![ubuntu](https://img.shields.io/static/v1?label=&logo=ubuntu&message=ubuntu&color=yellow&logoColor=white&style=plastic)]()
 [![Arch](https://img.shields.io/static/v1?label=&logo=archlinux&message=ArchLinux&color=yellow&logoColor=white&style=plastic)]()
 
@@ -59,4 +59,4 @@ You may find some interesting stuff if you dig a little.
 You can visit [my webpage](https://clotildelevou.github.io/).
 
 [![linkedin](https://img.shields.io/static/v1?label=Linked-In&logo=linkedin&message=check&style=social&color=grey)](https://fr.linkedin.com/in/c-levesque)
-[![mail](https://img.shields.io/static/v1?label=Mail&logo=microsoftoutlook&message=email-me&style=social&color=grey)](mailto:clotilde.levesque@epita.fr)
+[![mail](https://img.shields.io/static/v1?label=Mail&logo=microsoftoutlook&message=email-me&style=social&color=grey)](mailto:pro@clotilde-levsque.fr)
