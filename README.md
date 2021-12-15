@@ -24,6 +24,7 @@ My favourites languages and tools are :
 [![KiCad](https://img.shields.io/static/v1?label=&logo=gnu&message=KiCad&color=green&style=plastic)](https://www.kicad.org/)
 
 [![boost](https://img.shields.io/static/v1?label=&logo=boost&message=boost&color=orange&logoColor=white&style=plastic)]()
+[![cmake](https://img.shields.io/static/v1?label=&logo=cmake&message=CMake&color=orange&logoColor=white&style=plastic)]()
 
 [![git](https://img.shields.io/static/v1?label=&logo=git&message=git&color=yellow&logoColor=white&style=plastic)]()
 [![Linux](https://img.shields.io/static/v1?label=&logo=linux&message=Linux&color=yellow&logoColor=white&style=plastic)](https://www.linux.org/)
