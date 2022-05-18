@@ -22,6 +22,7 @@ My favourites languages and tools are :
 [![RaspberryPi](https://img.shields.io/static/v1?label=&logo=raspberrypi&message=raspberry-pi&color=green&style=plastic)](https://www.raspberrypi.org/)
 [![Arduino](https://img.shields.io/static/v1?label=&logo=arduino&message=Arduino&color=green&style=plastic)]()
 [![KiCad](https://img.shields.io/static/v1?label=&logo=gnu&message=KiCad&color=green&style=plastic)](https://www.kicad.org/)
+[![Yocto](https://img.shields.io/static/v1?label=&logo=linux&message=YOCTO&color=green&style=plastic)](https://wiki.yoctoproject.org)
 
 [![boost](https://img.shields.io/static/v1?label=&logo=boost&message=boost&color=orange&logoColor=white&style=plastic)]()
 [![cmake](https://img.shields.io/static/v1?label=&logo=cmake&message=CMake&color=orange&logoColor=white&style=plastic)]()
