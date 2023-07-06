@@ -4,10 +4,6 @@
 Hello, welcome on my Github profile ! My surname is Clou and I'm an engineering student specialized in low level IT.
 I am currently a research student at the [SEAL Laboratory](https://seal.epita.fr/) at EPITA Paris. I really enjoy system, electronics and robotics. I am very curious about computer architecture and i really want to learn more about it.
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clotildelevou&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clotildelevou&layout=compact&count_private=true&theme=dark&exclude_repo=clotildelevou.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
