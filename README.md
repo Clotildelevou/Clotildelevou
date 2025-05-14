@@ -27,7 +27,7 @@ You may find some interesting stuff if you dig a little.
 
 ## Contact
 
-You can visit [my webpage](https://clotildelevou.github.io/) or check [my english resume](https://raw.githubusercontent.com/Clotildelevou/clotildelevou.github.io/master/assets/pdf/CV_2022-06-09_Clotilde_Levesque.pdf)
+You can visit [my blog](https://clotildelevou.github.io/) or check [my english resume](https://raw.githubusercontent.com/Clotildelevou/clotildelevou.github.io/master/assets/pdf/CV_2022-06-09_Clotilde_Levesque.pdf)
 
 [![linkedin](https://img.shields.io/static/v1?label=Linked-In&logo=linkedin&message=check&style=social&color=grey)](https://fr.linkedin.com/in/c-levesque)
 [![mail](https://img.shields.io/static/v1?label=Mail&logo=microsoftoutlook&message=email-me&style=social&color=grey)](mailto:clotilde.levesque@outlook.com)
